@@ -1,0 +1,13 @@
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\Users\jphillips\source\Sandbox\cs_rbmq\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
